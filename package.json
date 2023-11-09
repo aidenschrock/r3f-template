@@ -1,5 +1,5 @@
 {
-  "name": "r3f-template",
+  "name": "ballpit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/cannon": "^6.6.0",
     "@react-three/drei": "^9.88.11",
     "@react-three/fiber": "^8.15.10",
     "@react-three/postprocessing": "^2.15.10",
